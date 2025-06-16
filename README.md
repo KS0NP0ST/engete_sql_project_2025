@@ -7,7 +7,7 @@
 <br>
      
 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
-   - Na základě zjištěných dat v prvním období roku 2006 a v posledním období roku 2018 lze zakoupit produkty chléba a mléko v tomto minimálním počtu
+   - Na základě zjištěných dat v prvním období roku 2006 a v posledním období roku 2018 lze zakoupit produkty chléba a mléko v tomto minimálním počtu:
 <h3>První období roku 2006 vs. poslední období roku 2018</h3>
 
 <table>
