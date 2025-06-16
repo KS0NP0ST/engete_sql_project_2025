@@ -9,7 +9,7 @@
    <b> Období pro rok 2006 </b>
    
    |                                   Obor                         | chleba | mleko |
-   |----------------------------------------------------------------|--------|--------|-------|
+   |----------------------------------------------------------------|--------|-------|
    |Administrativní a podpůrné činnosti                             | 1475   |
    |Doprava a skladování                                            |2006    |
    |Informační a komunikační činnosti                               |2006    |
@@ -29,11 +29,12 @@
    |Zpracovatelský průmysl                                          |2006    |
    |Zásobování vodou; činnosti související s odpady a sanacemi      |2006    |
    |Činnosti v oblasti nemovitostí                                  |2006    |
+   
   <b> Období pro rok 2018 </b>
 
-3. X
-   - xx
 4. X
    - xx
 5. X
+   - xx
+6. X
    - xx
