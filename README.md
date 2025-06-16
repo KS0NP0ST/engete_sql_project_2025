@@ -25,7 +25,7 @@
   <tr><td>Ostatní činnosti</td><td>1105</td><td>xxxx</td></tr>
   <tr><td>Peněžnictví a pojišťovnictví</td><td>2685</td><td>xxxx</td></tr>
   <tr><td>Profesní, vědecké a technické činnosti</td><td>1653</td><td>xxxx</td></tr>
-  <tr><td>Stavebnictví</td><td>1197/td><td>xxxx</td></tr>
+  <tr><td>Stavebnictví</td><td>1197</td><td>xxxx</td></tr>
   <tr><td>Těžba a dobývání</td><td>1614</td><td>xxxx</td></tr>
   <tr><td>Ubytování, stravování a pohostinství</td><td>783</td><td>xxxx</td></tr>
   <tr><td>Velkoobchod a maloobchod; opravy a údržba motorových vozidel</td><td>1222</td><td>xxxx</td></tr>
