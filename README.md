@@ -40,9 +40,6 @@
   <tr><td>Činnosti v oblasti nemovitostí</td><td>1291</td><td>1348</td></tr>
 </table>
 
-</td>
-<td style="width: 300px;"></td> <!-- mezera mezi tabulkami -->
-<td>
 
 <b>Rok 2018</b>
 <table>
