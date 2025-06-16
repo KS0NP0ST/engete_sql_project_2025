@@ -15,68 +15,67 @@ test
   <!-- Tabulka 2006 -->
   <div>
     <b>Rok 2006</b>
-    <table style="min-width: 400px;">
+    <table style="min-width: 500px;">
       <tr>
-    <th>Obor</th>
-    <th>chleba</th>
-    <th>mleko</th>
-  </tr>
-  <tr><td>Administrativní a podpůrné činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Doprava a skladování</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Informační a komunikační činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Kulturní, zábavní a rekreační činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Ostatní činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Peněžnictví a pojišťovnictví</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Profesní, vědecké a technické činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Stavebnictví</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Těžba a dobývání</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Ubytování, stravování a pohostinství</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Velkoobchod a maloobchod; opravy a údržba motorových vozidel</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Veřejná správa a obrana; povinné sociální zabezpečení</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Vzdělávání</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Zdravotní a sociální péče</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Zemědělství, lesnictví, rybářství</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Zpracovatelský průmysl</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Zásobování vodou; činnosti související s odpady a sanacemi</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Činnosti v oblasti nemovitostí</td><td>xxxx</td><td>xxxx</td></tr>
-</table>
+        <th>Obor</th>
+        <th>chleba</th>
+        <th>mleko</th>
+      </tr>
+      <tr><td>Administrativní a podpůrné činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Doprava a skladování</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Informační a komunikační činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Kulturní, zábavní a rekreační činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Ostatní činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Peněžnictví a pojišťovnictví</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Profesní, vědecké a technické činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Stavebnictví</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Těžba a dobývání</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Ubytování, stravování a pohostinství</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Velkoobchod a maloobchod; opravy a údržba motorových vozidel</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Veřejná správa a obrana; povinné sociální zabezpečení</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Vzdělávání</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Zdravotní a sociální péče</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Zemědělství, lesnictví, rybářství</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Zpracovatelský průmysl</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Zásobování vodou; činnosti související s odpady a sanacemi</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Činnosti v oblasti nemovitostí</td><td>xxxx</td><td>xxxx</td></tr>
+    </table>
   </div>
-  
 
-<div>
+  <!-- Tabulka 2018 -->
+  <div>
     <b>Rok 2018</b>
-    <table style="min-width: 400px;">
+    <table style="min-width: 500px;">
       <tr>
-    <th>Obor</th>
-    <th>chleba</th>
-    <th>mleko</th>
-  </tr>
-  <tr><td>Administrativní a podpůrné činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Doprava a skladování</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Informační a komunikační činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Kulturní, zábavní a rekreační činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Ostatní činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Peněžnictví a pojišťovnictví</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Profesní, vědecké a technické činnosti</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Stavebnictví</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Těžba a dobývání</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Ubytování, stravování a pohostinství</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Velkoobchod a maloobchod; opravy a údržba motorových vozidel</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Veřejná správa a obrana; povinné sociální zabezpečení</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Vzdělávání</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Zdravotní a sociální péče</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Zemědělství, lesnictví, rybářství</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Zpracovatelský průmysl</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Zásobování vodou; činnosti související s odpady a sanacemi</td><td>xxxx</td><td>xxxx</td></tr>
-  <tr><td>Činnosti v oblasti nemovitostí</td><td>xxxx</td><td>xxxx</td></tr>
-</table>
-
-</td>
-</tr>
-</table>
+        <th>Obor</th>
+        <th>chleba</th>
+        <th>mleko</th>
+      </tr>
+      <tr><td>Administrativní a podpůrné činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Doprava a skladování</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Informační a komunikační činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Kulturní, zábavní a rekreační činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Ostatní činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Peněžnictví a pojišťovnictví</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Profesní, vědecké a technické činnosti</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Stavebnictví</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Těžba a dobývání</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Ubytování, stravování a pohostinství</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Velkoobchod a maloobchod; opravy a údržba motorových vozidel</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Veřejná správa a obrana; povinné sociální zabezpečení</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Vzdělávání</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Zdravotní a sociální péče</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Zemědělství, lesnictví, rybářství</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Zpracovatelský průmysl</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Zásobování vodou; činnosti související s odpady a sanacemi</td><td>xxxx</td><td>xxxx</td></tr>
+      <tr><td>Činnosti v oblasti nemovitostí</td><td>xxxx</td><td>xxxx</td></tr>
+    </table>
   </div>
+
+</div>
+
 
 
 
