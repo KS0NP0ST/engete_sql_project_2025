@@ -41,7 +41,7 @@
 </table>
 
 </td>
-<td style="width: 700px;"></td> <!-- mezera mezi tabulkami -->
+<td style="width: 1000px;"></td> <!-- mezera mezi tabulkami -->
 <td>
 
 <b>Rok 2018</b>
