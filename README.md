@@ -10,25 +10,25 @@
    
    |                                   Obor                         | chleba | mleko |
    |----------------------------------------------------------------|--------|-------|
-   |Administrativní a podpůrné činnosti                             | 1475   |
-   |Doprava a skladování                                            |2006    |
-   |Informační a komunikační činnosti                               |2006    |
-   |Kulturní, zábavní a rekreační činnosti                          |2006    |
-   |Ostatní činnosti                                                |2006    |
-   |Peněžnictví a pojišťovnictví                                    |2006    |
-   |Profesní, vědecké a technické činnosti                          |2006    |
-   |Stavebnictví                                                    |2006    |
-   |Těžba a dobývání                                                |2006    |
-   |Ubytování, stravování a pohostinství                            |2006    |
-   |Velkoobchod a maloobchod; opravy a údržba motorových vozidel    |2006    |
-   |Veřejná správa a obrana; povinné sociální zabezpečení           |2006    |
-   |Vzdělávání                                                      |2006    |
-   |Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu     |2006    |
-   |Zdravotní a sociální péče                                       |2006    |
-   |Zemědělství, lesnictví, rybářství                               |2006    |
-   |Zpracovatelský průmysl                                          |2006    |
-   |Zásobování vodou; činnosti související s odpady a sanacemi      |2006    |
-   |Činnosti v oblasti nemovitostí                                  |2006    |
+   |Administrativní a podpůrné činnosti                             | xxxx   | xxxx  |
+   |Doprava a skladování                                            | xxxx   | xxxx  |
+   |Informační a komunikační činnosti                               | xxxx   | xxxx  |
+   |Kulturní, zábavní a rekreační činnosti                          | xxxx   | xxxx  |
+   |Ostatní činnosti                                                | xxxx   | xxxx  |
+   |Peněžnictví a pojišťovnictví                                    | xxxx   | xxxx  |
+   |Profesní, vědecké a technické činnosti                          | xxxx   | xxxx  |
+   |Stavebnictví                                                    | xxxx   | xxxx  |
+   |Těžba a dobývání                                                | xxxx   | xxxx  |
+   |Ubytování, stravování a pohostinství                            | xxxx   | xxxx  |
+   |Velkoobchod a maloobchod; opravy a údržba motorových vozidel    | xxxx   | xxxx  |
+   |Veřejná správa a obrana; povinné sociální zabezpečení           | xxxx   | xxxx  |
+   |Vzdělávání                                                      | xxxx   | xxxx  |
+   |Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu     | xxxx   | xxxx  |
+   |Zdravotní a sociální péče                                       | xxxx   | xxxx  |
+   |Zemědělství, lesnictví, rybářství                               | xxxx   | xxxx  |
+   |Zpracovatelský průmysl                                          | xxxx   | xxxx  |
+   |Zásobování vodou; činnosti související s odpady a sanacemi      | xxxx   | xxxx  |
+   |Činnosti v oblasti nemovitostí                                  | xxxx   | xxxx  |
    
   <b> Období pro rok 2018 </b>
 
