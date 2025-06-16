@@ -19,11 +19,11 @@
     <th>mleko</th>
   </tr>
   <tr><td>Administrativní a podpůrné činnosti</td><td>777</td><td>xxxx</td></tr>
-  <tr><td>Doprava a skladování</td><td>xxxx</td><td>1291</td></tr>
+  <tr><td>Doprava a skladování</td><td>1291</td><td>xxxx</td></tr>
   <tr><td>Informační a komunikační činnosti</td><td>1922</td><td>xxxx</td></tr>
   <tr><td>Kulturní, zábavní a rekreační činnosti</td><td>1128</td><td>xxxx</td></tr>
-  <tr><td>Ostatní činnosti</td><td>xxxx</td><td>1105</td></tr>
-  <tr><td>Peněžnictví a pojišťovnictví</td><td>xxxx</td><td>2685</td></tr>
+  <tr><td>Ostatní činnosti</td><td>1105</td><td>xxxx</td></tr>
+  <tr><td>Peněžnictví a pojišťovnictví</td><td>2685</td><td>xxxx</td></tr>
   <tr><td>Profesní, vědecké a technické činnosti</td><td>1653</td><td>xxxx</td></tr>
   <tr><td>Stavebnictví</td><td>1197/td><td>xxxx</td></tr>
   <tr><td>Těžba a dobývání</td><td>1614</td><td>xxxx</td></tr>
