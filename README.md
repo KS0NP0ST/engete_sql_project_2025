@@ -8,9 +8,9 @@
 
    <b> Období pro rok 2006 </b>
    
-   |                                   Obor                         | období | chleba | mleko |
+   |                                   Obor                         | chleba | mleko |
    |----------------------------------------------------------------|--------|--------|-------|
-   |Administrativní a podpůrné činnosti                             |2006    |
+   |Administrativní a podpůrné činnosti                             | 1475   |
    |Doprava a skladování                                            |2006    |
    |Informační a komunikační činnosti                               |2006    |
    |Kulturní, zábavní a rekreační činnosti                          |2006    |
