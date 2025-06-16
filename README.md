@@ -8,9 +8,9 @@
 
    <b> První období roku 2006 </b>
    
-   | Období 2006 | Obor                                             | chleba | mleko |         
-   |----------------------------------------------------------------|--------|-------|        
-   |Administrativní a podpůrné činnosti                             | xxxx   | xxxx  |         
+   | Obor                                                           | chleba | mleko |
+   |----------------------------------------------------------------|--------|-------|
+   |Administrativní a podpůrné činnosti                             | xxxx   | xxxx  |
    |Doprava a skladování                                            | xxxx   | xxxx  |
    |Informační a komunikační činnosti                               | xxxx   | xxxx  |
    |Kulturní, zábavní a rekreační činnosti                          | xxxx   | xxxx  |
@@ -32,7 +32,7 @@
    
   <b> Poslední období roku 2018 </b>
 
-  | Obor                                                           | chleba | mleko |
+   | Obor                                                           | chleba | mleko |
    |----------------------------------------------------------------|--------|-------|
    |Administrativní a podpůrné činnosti                             | xxxx   | xxxx  |
    |Doprava a skladování                                            | xxxx   | xxxx  |
