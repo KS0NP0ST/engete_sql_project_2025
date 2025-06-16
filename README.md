@@ -10,13 +10,13 @@ test
 
 <h3>Porovnání: První období roku 2006 vs. poslední období roku 2018</h3>
 
-<table>
-<tr>
-<td>
+<div style="display: flex; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
 
-<b>Rok 2006</b>
-<table>
-  <tr>
+  <!-- Tabulka 2006 -->
+  <div>
+    <b>Rok 2006</b>
+    <table style="min-width: 400px;">
+      <tr>
     <th>Obor</th>
     <th>chleba</th>
     <th>mleko</th>
@@ -41,14 +41,13 @@ test
   <tr><td>Zásobování vodou; činnosti související s odpady a sanacemi</td><td>xxxx</td><td>xxxx</td></tr>
   <tr><td>Činnosti v oblasti nemovitostí</td><td>xxxx</td><td>xxxx</td></tr>
 </table>
+  </div>
+  
 
-</td>
-<td style="width: 50px;"></td> <!-- mezera mezi tabulkami -->
-<td>
-
-<b>Rok 2018</b>
-<table>
-  <tr>
+<div>
+    <b>Rok 2018</b>
+    <table style="min-width: 400px;">
+      <tr>
     <th>Obor</th>
     <th>chleba</th>
     <th>mleko</th>
@@ -77,7 +76,7 @@ test
 </td>
 </tr>
 </table>
-
+  </div>
 
 
 
