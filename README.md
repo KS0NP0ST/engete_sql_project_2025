@@ -14,7 +14,7 @@
 <tr>
 <td>
 
-<b>Rok 2006</b>
+<enter><b>Rok 2006</b></enter>
 <table>
   <tr>
     <th>Obor</th>
