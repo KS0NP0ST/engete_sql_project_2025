@@ -76,9 +76,9 @@
 </tr>
 </table>
 
+3. X
+   - xx
 4. X
    - xx
 5. X
-   - xx
-6. X
    - xx
