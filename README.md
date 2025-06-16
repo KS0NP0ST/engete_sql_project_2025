@@ -3,6 +3,7 @@
 
 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
    - Na základě dostupných dat bylo pozorováno, že ve všech uvedených odvětvích dochází k růstu, ale také poklesu.
+
      
 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
    - Na základě zjištěných dat v prvním období roku 2006 a v posledním období roku 2018 lze zakoupit produkty chléba a mléko v tomto minimálním počtu
@@ -75,9 +76,15 @@
 </tr>
 </table>
 
+
 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)? 
    - Na základě zjištěných dat se nejpomaleji zdražuje kategorie banánů žlutých a to konkrétně o 0.81 procentního bodu.
+
+     
 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
    - xx
+
+     
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
    - xx
+     
