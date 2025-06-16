@@ -16,8 +16,8 @@
 <table>
   <tr>
     <th>Obor</th>
-    <th>kg chleba</th>
-    <th>litru mleko</th>
+    <th>ks chleba</th>
+    <th>l mleko</th>
   </tr>
   <tr><td>Administrativní a podpůrné činnosti</td><td>777</td><td>811</td></tr>
   <tr><td>Doprava a skladování</td><td>1291</td><td>1349</td></tr>
