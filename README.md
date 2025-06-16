@@ -7,8 +7,8 @@
    - Na základě zjištěných dat v prvním období roku 2006 a v posledním zjišťovaným období roku 2018 lze zakoupit produkty chléba a mléko v tomto minimálním počtu
    
    | Období |                                   Obor                           | Produkt | Počet |
-   |--------|------------------------------------------------------------------|---------|-------|
-   |2006    | Administrativní a podpůrné činnosti                              | 
+   |-----|------------------------------------------------------------------|---------|-------|
+   |2006 | Administrativní a podpůrné činnosti                              | 
    |  2006  | Doprava a skladování                                             |
    |  2006  | Informační a komunikační činnosti                                |
    |  2006  | Kulturní, zábavní a rekreační činnosti                           |
