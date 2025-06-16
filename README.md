@@ -15,28 +15,28 @@
 <table>
   <tr>
     <th>Obor</th>
-    <th>chleba</th>
-    <th>mleko</th>
+    <th>kg chleba</th>
+    <th>litru mleko</th>
   </tr>
-  <tr><td>Administrativní a podpůrné činnosti</td><td>777</td><td>xxxx</td></tr>
-  <tr><td>Doprava a skladování</td><td>1291</td><td>xxxx</td></tr>
-  <tr><td>Informační a komunikační činnosti</td><td>1922</td><td>xxxx</td></tr>
-  <tr><td>Kulturní, zábavní a rekreační činnosti</td><td>1128</td><td>xxxx</td></tr>
-  <tr><td>Ostatní činnosti</td><td>1105</td><td>xxxx</td></tr>
-  <tr><td>Peněžnictví a pojišťovnictví</td><td>2685</td><td>xxxx</td></tr>
-  <tr><td>Profesní, vědecké a technické činnosti</td><td>1653</td><td>xxxx</td></tr>
-  <tr><td>Stavebnictví</td><td>1197</td><td>xxxx</td></tr>
-  <tr><td>Těžba a dobývání</td><td>1614</td><td>xxxx</td></tr>
-  <tr><td>Ubytování, stravování a pohostinství</td><td>783</td><td>xxxx</td></tr>
-  <tr><td>Velkoobchod a maloobchod; opravy a údržba motorových vozidel</td><td>1222</td><td>xxxx</td></tr>
-  <tr><td>Veřejná správa a obrana; povinné sociální zabezpečení</td><td>1562</td><td>xxxx</td></tr>
-  <tr><td>Vzdělávání</td><td>1343</td><td>xxxx</td></tr>
-  <tr><td>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</td><td>1959</td><td>xxxx</td></tr>
-  <tr><td>Zdravotní a sociální péče</td><td>1025</td><td>xxxx</td></tr>
-  <tr><td>Zemědělství, lesnictví, rybářství</td><td>994</td><td>xxxx</td></tr>
-  <tr><td>Zpracovatelský průmysl</td><td>853</td><td>xxxx</td></tr>
-  <tr><td>Zásobování vodou; činnosti související s odpady a sanacemi</td><td>1257</td><td>xxxx</td></tr>
-  <tr><td>Činnosti v oblasti nemovitostí</td><td>1291</td><td>xxxx</td></tr>
+  <tr><td>Administrativní a podpůrné činnosti</td><td>777</td><td>811</td></tr>
+  <tr><td>Doprava a skladování</td><td>1291</td><td>1349</td></tr>
+  <tr><td>Informační a komunikační činnosti</td><td>1922</td><td>2008</td></tr>
+  <tr><td>Kulturní, zábavní a rekreační činnosti</td><td>1128</td><td>1179</td></tr>
+  <tr><td>Ostatní činnosti</td><td>1105</td><td>1155</td></tr>
+  <tr><td>Peněžnictví a pojišťovnictví</td><td>2685</td><td>2805</td></tr>
+  <tr><td>Profesní, vědecké a technické činnosti</td><td>1653</td><td>1727</td></tr>
+  <tr><td>Stavebnictví</td><td>1197</td><td>1251</td></tr>
+  <tr><td>Těžba a dobývání</td><td>1614</td><td>1686</td></tr>
+  <tr><td>Ubytování, stravování a pohostinství</td><td>783</td><td>818</td></tr>
+  <tr><td>Velkoobchod a maloobchod; opravy a údržba motorových vozidel</td><td>1222</td><td>1277</td></tr>
+  <tr><td>Veřejná správa a obrana; povinné sociální zabezpečení</td><td>1562</td><td>1631</td></tr>
+  <tr><td>Vzdělávání</td><td>1343</td><td>1403</td></tr>
+  <tr><td>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</td><td>1959</td><td>2047</td></tr>
+  <tr><td>Zdravotní a sociální péče</td><td>1025</td><td>1071</td></tr>
+  <tr><td>Zemědělství, lesnictví, rybářství</td><td>994</td><td>1038</td></tr>
+  <tr><td>Zpracovatelský průmysl</td><td>853</td><td>891</td></tr>
+  <tr><td>Zásobování vodou; činnosti související s odpady a sanacemi</td><td>1257</td><td>1313</td></tr>
+  <tr><td>Činnosti v oblasti nemovitostí</td><td>1291</td><td>1348</td></tr>
 </table>
 
 </td>
