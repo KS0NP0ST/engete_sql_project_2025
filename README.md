@@ -167,7 +167,7 @@
     <th>Rok</th>
     <th>Meziroční změna cen</th>
     <th>Meziroční změna mezd</th>
-    <th>Rozdíl (procentní body)</th>
+    <th>Procentuální rozdíl</th>
   </tr>
   <tr><td>2017</td><td>12.58</td><td>-2.00</td><td>14.58</td></tr>
   <tr><td>2013</td><td>4.14</td><td>-8.35</td><td>12.49</td></tr>
