@@ -159,7 +159,19 @@
 <br>
      
 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
-   - xx
+   - Meziroční růst cen potravin převýšil růst mezd o více než 10 procentních bodů v roce 2013 a 2017.
+     
+<h3>Roky, kdy růst cen převýšil růst mezd o více než 10 p. b.</h3>
+<table>
+  <tr>
+    <th>Rok</th>
+    <th>Meziroční změna cen</th>
+    <th>Meziroční změna mezd</th>
+    <th>Rozdíl (procentní body)</th>
+  </tr>
+  <tr><td>2017</td><td>12.58</td><td>-2.00</td><td>14.58</td></tr>
+  <tr><td>2013</td><td>4.14</td><td>-8.35</td><td>12.49</td></tr>
+</table>
 
 <br>
      
