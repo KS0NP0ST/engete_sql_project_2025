@@ -7,7 +7,6 @@
 <table>
 <tr>
 <td> 
-<b>Poklesy - odvětví/období</b>
 
   <tr>
     <th>Odvětví</th>
