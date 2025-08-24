@@ -9,7 +9,7 @@
   <tr>
     <th>Odvětví</th>
     <th>Období</th>
-    <th>Pokles</th>
+    <th>Procentuální pokles</th>
   </tr>
   <tr><td>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</td><td>2011</td><td>-0.23</td></tr>
   <tr><td>Administrativní a podpůrné činnosti</td><td>2013</td><td>-1.24</td></tr>
