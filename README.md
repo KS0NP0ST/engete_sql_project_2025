@@ -3,6 +3,15 @@
 
 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
    - Nelze říci, že by mzdy rostly ve všech odvětvích bez výjimky. Některá odvětví zaznamenala poklesy v různých časových obdobích.
+  
+<b>Poklesy - odvětví/období</b>
+<table>
+  <tr>
+    <th>Odvětví</th>
+    <th>Období</th>
+    <th>Pokles</th>
+  </tr>
+  <tr><td>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</td><td>2011</td><td>-94</td></tr>
      
 <br>
      
