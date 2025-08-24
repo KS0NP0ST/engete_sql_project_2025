@@ -7,8 +7,7 @@
 <table>
 <tr>
 <td> 
-
-  <tr>
+<tr>
     <th>Odvětví</th>
     <th>Období</th>
     <th>Pokles</th>
